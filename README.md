@@ -11,3 +11,8 @@ You can modify this variables as needed, or add your own if you want to adapt th
 >set "serviceMaria=MariaDB"
 >
 >set "serviceSql=MySQL57"
+
+
+The powershell version has a mini-gui 
+
+![image](https://github.com/ieselisra/windows_script_database_services_management/assets/2808230/477a8748-26f2-42fc-a133-faf17ebc0ef2)
